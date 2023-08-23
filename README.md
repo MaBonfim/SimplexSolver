@@ -1,7 +1,7 @@
 # SimplexSolver
 Program to solve linear programming problems using the simplex method 
 
-#How to use
+# How to use
 The problem must be modelled to the standard format
 
 The program accept as parameters the standard format of the problem in the matrix form
