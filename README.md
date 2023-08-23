@@ -1,5 +1,5 @@
 # SimplexSolver
-Program to solve linear programming problems using the simplex method 
+Program made in Python to solve linear programming problems using the simplex method 
 
 # How to use
 The problem must be modelled to the standard format
