@@ -3,10 +3,13 @@ Program to solve linear programming problems using the simplex method
 
 #How to use
 The problem must be modelled to the standard format
+
 The program accept as parameters the standard format of the problem in the matrix form
+
 The parameters are separated by parts of the model
 
 example:
+
  C = (-3, -2, 0, 0, 0)
 
  A = ((0.5, 0.3, 1, 0, 0),
@@ -19,6 +22,7 @@ example:
  N = [1, 2]
 
  nVariables = 5
+ 
  nRestrictions = 3
 
  - C : is the vector with the coeficients of the variables of the function
