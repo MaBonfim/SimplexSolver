@@ -1,6 +1,9 @@
 # SimplexSolver
 Program made in Python to solve linear programming problems using the simplex method 
 
+# Results
+It is printed on the terminal, a vector with the values of the variables for the great value of the problem and the great value of the problem
+
 # How to use
 The problem must be modelled to the standard format
 
